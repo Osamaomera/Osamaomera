@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Osamaomera" alt="Osamaomera" /></a> </p>
 
+- 🌱 I’m currently learning **Scripting and redhat administration with ansible**
 - 📫 How to reach me **osama.omera68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
