@@ -1,6 +1,10 @@
 <h1 align="center">Hey There 👋 I'm Osama Omera</h1>
 <h3 align="center">A passionate DevOps Engineer from Egypt, I recently graduated from Menofia University .As a Computer Science and Engineering graduated , I'm currently seeking an entry-level position in a space that allow me to improve and expand my skills and learn more about DevOps.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Osamaomera&label=Profile%20views&color=0e75b6&style=flat" alt="Osamaomera" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Osamaomera" alt="Osamaomera" /></a> </p>
+
 - 📫 How to reach me **osama.omera68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
